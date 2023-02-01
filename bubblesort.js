@@ -12,8 +12,7 @@ function bubbleSort(arr) {
   return arr;
 }
 
-//example
-//bubbleSort([4, 6, 23, 6, 4, 37, 3]);
+
 
 
 
